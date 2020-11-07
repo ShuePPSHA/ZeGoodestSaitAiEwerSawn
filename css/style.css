@@ -1,0 +1,6 @@
+header {
+  background: url(../img/1.png) no-repeat top/cover;
+  height: 125vh;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
